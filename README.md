@@ -1,16 +1,14 @@
-<p align="center"><a href="https://github.com/dfarid479"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcwdTBsc3Axanlid2t0Z2JreDg2MG15Z3czd2RteWY0aDF4Z3luNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aejdvBiVkJsk/giphy.gif">
 </p>
 
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S Abhishek <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhsbzN5eG9oZXhieXIxaHkxMTg4bXQ2Z2EzbnhrM254NmQ4ZGhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZO1AsF2p2RyyiX23NA/giphy.gif" width="50"></h1> 
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Dan Farid <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhsbzN5eG9oZXhieXIxaHkxMTg4bXQ2Z2EzbnhrM254NmQ4ZGhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZO1AsF2p2RyyiX23NA/giphy.gif" width="50"></h1> 
 
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   
-  <img src="List-(16_9).gif">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ1cTdwc2R3djhwNmwwbjEyemR1bTcxemQ3OW1lczF5NGZ4cDBidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YvYM7PK4GPR72GbgWT/giphy.gif">
   
   <br/>
 
@@ -25,9 +23,7 @@ BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img 
 
 </h3>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgyYzN5ZjNyaDhlMDJmOWE3N2NtbTBteXR5MjNtODhkN2VsaWluYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="50">
 
 - 📫 How to reach me **d.faridwebcontact@gmail.com**
 - Wanna Stalk My Blog? [`Here you go!!`](https://dfarid479.github.io/danielfarid.github.io/)
@@ -135,67 +131,12 @@ BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-### 📕 My Latest Blog Posts!
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<br/>
-
-- [All about OS - What is Patch, Service Pack & Build](https://a3x3k.medium.com/all-about-os-91744c29ebef)
-- [Memory Forensics - Introduction to Memory Forensics](https://a3x3k.medium.com/memory-forensics-d769ad20cff8)
-- [DHCP Protocol - What is DHCP & Why DHCP? ](https://a3x3k.medium.com/dhcp-4c329c2e8da6)
-- [BOOTP Protocol - IP Address Mapping by BOOTP](https://a3x3k.medium.com/bootp-f51afbb9578b)
-- [RARP Protocol - What is RARP & Issues with the Reverse ARP & Solution ](https://a3x3k.medium.com/rarp-f33aae076ba0)
-
-<br/> 
-  
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-<p align="center"> 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/>
-</p>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
-
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/left.webp">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/right.webp">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfarid479&theme=dark&hide_border=true"/>
   </a>
 </p>
 
-<div align="center">
-  
-![snake gif](https://github.com/a3x3k/a3x3k/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<h2>
-  Connect With Me <a target="_blank">
-  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
-  </a>
-</h2>
-
-<div align="center">
-  
-<img height="50" width="50" href="mailto:abhishekabi2002@gmail.com" src="https://api.iconify.design/logos:google-gmail.svg" hspace="10"/>
-  
-<img height="50" width="50" href="https://www.linkedin.com/in/a3x3k/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>
-  
-<img height="50" width="50" href="https://twitter.com/a3x3k" src="https://user-images.githubusercontent.com/52845731/209470685-b0bd3f9d-5020-4e30-9ad6-8705268a295f.png" hspace="10"/>
-    
-<img height="50" width="50" href="https://www.instagram.com/a3X3k/" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/>
-
-<img height="50" width="50" href="https://www.facebook.com/a3x3k/" src="https://user-images.githubusercontent.com/52845731/209470643-20367888-9bc4-4e38-b6a0-563a4be58a1a.png" hspace="10"/>
-
-</div>
 
 <br/>
 
@@ -207,63 +148,49 @@ BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img 
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfarid479&theme=midnight_purple)
 
 <br/>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dfarid479&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dfarid479&theme=github_dark)
  
  <br/>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rithvik78&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a3x3k&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rithvik78&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dfarid479&theme=github_dark) 
   
 <br/>
   
- <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+ <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfarid479&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 <br/>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="a3x3k's Github Stats"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfarid479&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dfarid479's Github Stats"> 
   
 <br/>
 <br/>
 <br/>
- 
-<!-- ![S Abhishek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a3x3k&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
-<!--   
-<br/>
- -->
-</div>
+
 
 <br/>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   
-<!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-   -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+India+IN+%5C%3E)](https://git.io/typing-svg)
+
+
   
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/a3x3k/count.svg" alt=""/></td>
+    <td><img src="https://profile-counter.glitch.me/dfarid/count.svg" alt=""/></td>
   </tr>
 </table>
   
 <br/>
   
-<a href="https://github.com/a3x3k" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/a3x3k?label=Github%20followers&style=for-the-badge">
+<a href="https://github.com/dfarid479" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dfarid479?label=Github%20followers&style=for-the-badge">
 </a>
   
-<br/>
-<br/>
-  
-</div>
-
-<p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
