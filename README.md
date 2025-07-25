@@ -1,27 +1,25 @@
-<p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/dfarid479"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UwvrqJ8Isv40oeSkuX/giphy.gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcwdTBsc3Axanlid2t0Z2JreDg2MG15Z3czd2RteWY0aDF4Z3luNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aejdvBiVkJsk/giphy.gif">
 </p>
 
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S Abhishek <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S Abhishek <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhsbzN5eG9oZXhieXIxaHkxMTg4bXQ2Z2EzbnhrM254NmQ4ZGhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZO1AsF2p2RyyiX23NA/giphy.gif" width="50"></h1> 
 
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer+@Rolls-Royce;&center=true&width=500&height=50">
+  <img src="List-(16_9).gif">
   
   <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Former+Digital+Forensics+Analyst+@Team+Bi0s;&center=true&width=500&height=50">
-  
+
 </a>
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
 <p><em>
-Computer Science Graduate from <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 </div>
 
@@ -29,11 +27,10 @@ Computer Science Graduate from <a href="https://www.amrita.edu/campus/amritapuri
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgyYzN5ZjNyaDhlMDJmOWE3N2NtbTBteXR5MjNtODhkN2VsaWluYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="50">
 
-- Former Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
-- 📫 How to reach me **abhishekabi2002@gmail.com**
-- Wanna Stalk My Blog? [`Here you go!!`](https://a3x3k.github.io/)
+- 📫 How to reach me **d.faridwebcontact@gmail.com**
+- Wanna Stalk My Blog? [`Here you go!!`](https://dfarid479.github.io/danielfarid.github.io/)
 
 </div>
 
