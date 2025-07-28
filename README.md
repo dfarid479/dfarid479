@@ -8,7 +8,7 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ1cTdwc2R3djhwNmwwbjEyemR1bTcxemQ3OW1lczF5NGZ4cDBidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YvYM7PK4GPR72GbgWT/giphy.gif">
+<a href="https://github.com/404"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ1cTdwc2R3djhwNmwwbjEyemR1bTcxemQ3OW1lczF5NGZ4cDBidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YvYM7PK4GPR72GbgWT/giphy.gif" width="100%"></a> <img src="">
   
   <br/>
 
