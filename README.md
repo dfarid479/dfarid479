@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcwdTBsc3Axanlid2t0Z2JreDg2MG15Z3czd2RteWY0aDF4Z3luNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aejdvBiVkJsk/giphy.gif">
-</p>
-
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Dan Farid <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhsbzN5eG9oZXhieXIxaHkxMTg4bXQ2Z2EzbnhrM254NmQ4ZGhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZO1AsF2p2RyyiX23NA/giphy.gif" width="50"></h1> 
 
 <div align="center">
