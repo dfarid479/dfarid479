@@ -22,7 +22,10 @@ BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img 
 
 
 - 📫 How to reach me **d.faridwebcontact@gmail.com**
+  
 - Wanna Stalk My Blog? [`Here you go!!`](https://dfarid479.github.io/danielfarid.github.io/)
+  
+- Wanna make Sourdough? [`Here you go!!`](https://drive.google.com/file/d/1MJxZ1i_DiypjbzimveZ-L5JHbTaevQjo/view?usp=sharing/)
 
 </div>
 
