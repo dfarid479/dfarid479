@@ -10,8 +10,6 @@
 
 </a>
   
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-  
 <p><em>
 BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
@@ -25,15 +23,13 @@ BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img 
   
 - Wanna Stalk My Blog? [`Here you go!!`](https://dfarid479.github.io/danielfarid.github.io/)
   
-- Wanna make Sourdough? [`Here you go!!`](https://drive.google.com/file/d/1MJxZ1i_DiypjbzimveZ-L5JHbTaevQjo/view?usp=sharing/)
+- Want to try out Sourdough? [`Here you go!!`](https://drive.google.com/file/d/1MJxZ1i_DiypjbzimveZ-L5JHbTaevQjo/view?usp=sharing/)
 
 </div>
 
 <br/>
 
 <div align="center">
-  
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### I Spend My Time On :
   
@@ -98,21 +94,10 @@ BA & MA Graduate from <a href="https://www.rowan.edu/">Rowan University</a><img 
 
 <br/>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align="center">
   
 
-
-
-  
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/dfarid/count.svg" alt=""/></td>
-  </tr>
-</table>
-  
 <br/>
   
 <a href="https://github.com/dfarid479" target="_blank">
